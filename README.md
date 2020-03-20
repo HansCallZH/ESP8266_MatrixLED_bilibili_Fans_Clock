@@ -10,6 +10,8 @@ CH340G 驱动： http://www.wch.cn/download/CH341SER_EXE.html
 
 ESP8266 : https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
+ArduinoJson 6.x : https://github.com/bblanchon/ArduinoJson
+
 Arduino Time Library: https://github.com/PaulStoffregen/Time
 
 Adafruit_GFX : https://github.com/adafruit/Adafruit-GFX-Library
